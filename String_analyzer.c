@@ -44,7 +44,6 @@ int main(void)
             target_count++;
         }
     }
-
     printf("\n字母: %d\n", letter_count);
     printf("数字: %d\n", digit_count);
     printf("空格: %d\n", space_count);
